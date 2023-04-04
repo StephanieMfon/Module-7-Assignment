@@ -1,0 +1,24 @@
+{
+  "name": "module-7-assignment",
+  "version": "1.0.0",
+  "description": "A repository containing the answers to my Module 7 assignment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StephanieMfon/Module-7-Assignment.git"
+  },
+  "author": "Stephanie Okpo-mfon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StephanieMfon/Module-7-Assignment/issues"
+  },
+  "homepage": "https://github.com/StephanieMfon/Module-7-Assignment#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "joi": "^17.9.1",
+    "mongoose": "^7.0.3"
+  }
+}
